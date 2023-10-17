@@ -1,6 +1,6 @@
 <template>
   <div>
-    <button></button>
+    <button>commit test</button>
   </div>
 </template>
 
